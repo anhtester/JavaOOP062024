@@ -1,4 +1,4 @@
-package com.anhtester.Customer;
+package ObjectClass.Customer;
 
 public class CustomerTest {
     public void testAddNewCustomer(){

@@ -1,6 +1,6 @@
-package com.anhtester.Login;
+package ObjectClass.Login;
 
-import com.anhtester.Customer.CustomerTest;
+import ObjectClass.Customer.CustomerTest;
 
 public class LoginTest {
 

@@ -1,4 +1,4 @@
-package com.anhtester.Login;
+package ObjectClass.Login;
 
 public class ForgotPasswordTest {
 }
